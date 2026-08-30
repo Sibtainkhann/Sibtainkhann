@@ -4,11 +4,15 @@
 
 <br><br>
 
-# Hey 👋, I'm Sibtain
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Hey+%F0%9F%91%8B%2C+I'm+Sibtain;Welcome+to+my+GitHub!;I+build+AI-powered+applications;Let's+build+something+cool+%F0%9F%9A%80" alt="Animated introduction"/>
+
+<br>
 
 ### AI/ML Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Machine+Learning+%7C+Python+%7C+SQL;Exploring+Generative+AI+%26+LLMs;Turning+ideas+into+real-world+projects" alt="Typing SVG"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=700&height=50&lines=Machine+Learning+%7C+Python+%7C+SQL;Exploring+Generative+AI+%26+LLMs;Turning+ideas+into+real-world+projects" alt="Animated skills"/>
 
 <br><br>
 
@@ -48,43 +52,27 @@ I'm particularly interested in:
 <tr>
 
 <td align="center" width="150">
-
 <img src="https://skillicons.dev/icons?i=python" width="55"/>
-
-<br>
-
+<br><br>
 <b>Python</b>
-
 </td>
 
 <td align="center" width="150">
-
 <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-
-<br>
-
+<br><br>
 <b>SQL / MySQL</b>
-
 </td>
 
 <td align="center" width="150">
-
 <img src="https://skillicons.dev/icons?i=tensorflow" width="55"/>
-
-<br>
-
+<br><br>
 <b>TensorFlow</b>
-
 </td>
 
 <td align="center" width="150">
-
 <img src="https://skillicons.dev/icons?i=pytorch" width="55"/>
-
-<br>
-
+<br><br>
 <b>PyTorch</b>
-
 </td>
 
 </tr>
@@ -92,43 +80,27 @@ I'm particularly interested in:
 <tr>
 
 <td align="center">
-
 <img src="https://skillicons.dev/icons?i=sklearn" width="55"/>
-
-<br>
-
+<br><br>
 <b>Scikit-Learn</b>
-
 </td>
 
 <td align="center">
-
 <img src="https://skillicons.dev/icons?i=pandas" width="55"/>
-
-<br>
-
+<br><br>
 <b>Pandas</b>
-
 </td>
 
 <td align="center">
-
 <img src="https://skillicons.dev/icons?i=numpy" width="55"/>
-
-<br>
-
+<br><br>
 <b>NumPy</b>
-
 </td>
 
 <td align="center">
-
 <img src="https://img.icons8.com/color/96/power-bi.png" width="55"/>
-
-<br>
-
+<br><br>
 <b>Power BI</b>
-
 </td>
 
 </tr>
@@ -136,47 +108,30 @@ I'm particularly interested in:
 <tr>
 
 <td align="center">
-
 <img src="https://skillicons.dev/icons?i=git" width="55"/>
-
-<br>
-
+<br><br>
 <b>Git</b>
-
 </td>
 
 <td align="center">
-
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
-
-<br>
-
+<br><br>
 <b>GitHub</b>
-
 </td>
 
 <td align="center">
-
 <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
-
-<br>
-
+<br><br>
 <b>VS Code</b>
-
 </td>
 
 <td align="center">
-
 <img src="https://skillicons.dev/icons?i=azure" width="55"/>
-
-<br>
-
+<br><br>
 <b>Azure</b>
-
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -265,7 +220,7 @@ My personal portfolio showcasing my **projects, skills, experience, and work acr
 
 <h3>🔐 Password Generator</h3>
 
-A simple Python-based password generator for creating strong and customizable passwords.
+A Python-based application for generating strong and customizable passwords.
 
 <br>
 
@@ -316,13 +271,17 @@ A simple Python-based password generator for creating strong and customizable pa
 <div align="center">
 
 <img src="https://img.shields.io/badge/🤖%20Generative%20AI-111111?style=for-the-badge"/>
+&nbsp;
 <img src="https://img.shields.io/badge/🧠%20Machine%20Learning-111111?style=for-the-badge"/>
+&nbsp;
 <img src="https://img.shields.io/badge/📊%20Data%20Analytics-111111?style=for-the-badge"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/💬%20LLMs-111111?style=for-the-badge"/>
+&nbsp;
 <img src="https://img.shields.io/badge/🚀%20AI%20Products-111111?style=for-the-badge"/>
+&nbsp;
 <img src="https://img.shields.io/badge/☁️%20Cloud%20%26%20AI-111111?style=for-the-badge"/>
 
 </div>
