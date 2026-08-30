@@ -207,9 +207,7 @@ My personal portfolio showcasing my **projects, skills, experience, and work acr
 <a href="https://sibtainkhann.github.io/MD-SIBTAIN-KHAN-PORTFOLIO/">
 <img src="https://img.shields.io/badge/Live%20Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio"/>
 </a>
-
 &nbsp;
-
 <a href="https://github.com/Sibtainkhann/MD-SIBTAIN-KHAN-PORTFOLIO">
 <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
 </a>
@@ -242,15 +240,21 @@ A Python-based application for generating strong and customizable passwords.
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Contributions
 
 <div align="center">
 
-<a href="https://github.com/Sibtainkhann">
+<img src="https://github-readme-stats.vercel.app/api?username=Sibtainkhann&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Sibtain's%20GitHub%20Stats" width="48%" alt="Sibtain's GitHub Stats"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sibtainkhann&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Sibtain%27s%20GitHub%20Activity" width="95%" alt="Sibtain's GitHub Activity Graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibtainkhann&layout=compact&hide_border=true&theme=github_dark&langs_count=8" width="40%" alt="Top Languages"/>
 
-</a>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibtainkhann&theme=github-dark-blue&hide_border=true" width="70%" alt="Sibtain's GitHub Contribution Streak"/>
 
 </div>
 
