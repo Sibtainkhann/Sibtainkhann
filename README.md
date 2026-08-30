@@ -15,15 +15,11 @@
 <a href="https://sibtainkhann.github.io/MD-SIBTAIN-KHAN-PORTFOLIO/">
 <img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sibtain0/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Sibtainkhann">
 <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -210,7 +206,7 @@ AI healthcare assistant that analyzes symptoms and predicts potential diseases u
 <br><br>
 
 <a href="https://github.com/Sibtainkhann/medinexAI">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
 </a>
 
 </td>
@@ -230,7 +226,7 @@ A Python web app that uses **OpenCV** to detect facial emotions in real time and
 <br><br>
 
 <a href="https://github.com/Sibtainkhann/Music-Recomendation-Using-Facial-Recognition">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
 </a>
 
 </td>
@@ -254,11 +250,13 @@ My personal portfolio showcasing my **projects, skills, experience, and work acr
 <br><br>
 
 <a href="https://sibtainkhann.github.io/MD-SIBTAIN-KHAN-PORTFOLIO/">
-<img src="https://img.shields.io/badge/Live%20Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live%20Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio"/>
 </a>
 
+&nbsp;
+
 <a href="https://github.com/Sibtainkhann/MD-SIBTAIN-KHAN-PORTFOLIO">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
 </a>
 
 </td>
@@ -276,7 +274,7 @@ A simple Python-based password generator for creating strong and customizable pa
 <br><br>
 
 <a href="https://github.com/Sibtainkhann/Password-Generator-">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
 </a>
 
 </td>
@@ -336,19 +334,15 @@ A simple Python-based password generator for creating strong and customizable pa
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sibtain0/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://sibtainkhann.github.io/MD-SIBTAIN-KHAN-PORTFOLIO/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Sibtainkhann">
-<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
