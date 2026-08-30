@@ -1,28 +1,34 @@
 <div align="center">
 
-# Hey, I'm Sibtain 👋
+<img src="./header.png" width="100%" alt="Sibtain GitHub Header"/>
 
-### AI/ML Engineer · Python · Data · Machine Learning
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Machine+Learning+%7C+Python+%7C+SQL;Exploring+Generative+AI+%26+LLMs;Turning+ideas+into+real-world+projects" alt="Typing SVG" />
+# Hey 👋, I'm Sibtain
+
+### AI/ML Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Machine+Learning+%7C+Python+%7C+SQL;Exploring+Generative+AI+%26+LLMs;Turning+ideas+into+real-world+projects" alt="Typing SVG"/>
 
 <br>
 
 <a href="https://sibtainkhann.github.io/MD-SIBTAIN-KHAN-PORTFOLIO/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111111?style=flat-square&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Explore-111111?style=for-the-badge"/>
 </a>
-&nbsp;
+
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/sibtain0/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
+&nbsp;&nbsp;
+
 <a href="https://github.com/Sibtainkhann">
-<img src="https://img.shields.io/badge/GitHub-Explore%20Projects-24292F?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
-
-<br>
 
 ---
 
@@ -34,80 +40,87 @@ I enjoy building practical applications that combine **AI, machine learning, dat
 
 I'm particularly interested in:
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Analytics & Data-driven applications
-- 🐍 Python & SQL
-- 🚀 AI-powered products
-- ✨ Generative AI & LLM applications
+**Artificial Intelligence** · **Machine Learning** · **NLP** · **Computer Vision** · **Data Analytics** · **Generative AI**
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 💻 Languages
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,mysql" height="55"/>
+
+<br><br>
 
 ### 🤖 AI & Machine Learning
 
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" height="55"/>
 
-### ☁️ Tools & Cloud
+<br><br>
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+### 📊 Data & Analytics
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas" height="55"/>
+
+&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
+
+<br><br>
+
+### ☁️ Development & Cloud
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,azure" height="55"/>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🏥 medinexAI
+<h3>🏥 medinexAI</h3>
 
-An AI-powered healthcare application exploring **disease classification, NLP, and risk assessment**.
+AI healthcare assistant that analyzes symptoms and predicts potential diseases using **NLP and Machine Learning**.
 
-`AI` `NLP` `Machine Learning`
+<br>
+
+<img src="https://img.shields.io/badge/AI-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-111111?style=flat-square"/>
 
 <br><br>
 
 <a href="https://github.com/Sibtainkhann/medinexAI">
-<img src="https://img.shields.io/badge/GitHub-View%20Source-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://medinex-ai.vercel.app/">
-<img src="https://img.shields.io/badge/Live-Demo-111111?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎵 Music Recommendation
+<h3>🎵 Music Recommendation</h3>
 
-A music recommendation project using **facial recognition and emotion detection** to personalize music suggestions.
+A Python web app that uses **OpenCV** to detect facial emotions in real time and uses a trained ML model for emotion prediction.
 
-`Computer Vision` `CNN` `TensorFlow`
+<br>
+
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-111111?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-111111?style=flat-square"/>
 
 <br><br>
 
 <a href="https://github.com/Sibtainkhann/Music-Recomendation-Using-Facial-Recognition">
-<img src="https://img.shields.io/badge/GitHub-View%20Source-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -118,36 +131,42 @@ A music recommendation project using **facial recognition and emotion detection*
 
 <td width="50%" valign="top">
 
-### 🌐 Personal Portfolio
+<h3>🌐 Personal Portfolio</h3>
 
 My personal portfolio showcasing my **projects, skills, experience, and work across AI/ML and data**.
 
-`HTML` `CSS` `JavaScript`
+<br>
+
+<img src="https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white"/>
 
 <br><br>
 
 <a href="https://sibtainkhann.github.io/MD-SIBTAIN-KHAN-PORTFOLIO/">
-<img src="https://img.shields.io/badge/Website-View%20Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Live%20Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Sibtainkhann/MD-SIBTAIN-KHAN-PORTFOLIO">
-<img src="https://img.shields.io/badge/GitHub-Source-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔐 Password Generator
+<h3>🔐 Password Generator</h3>
 
-A Python-based application for generating strong and customizable passwords.
+A simple Python-based password generator for creating strong and customizable passwords.
 
-`Python`
+<br>
+
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white"/>
 
 <br><br>
 
 <a href="https://github.com/Sibtainkhann/Password-Generator-">
-<img src="https://img.shields.io/badge/GitHub-View%20Source-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -155,27 +174,53 @@ A Python-based application for generating strong and customizable passwords.
 </tr>
 </table>
 
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/Sibtainkhann">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sibtainkhann&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Sibtain%27s%20GitHub%20Activity" width="95%" alt="Sibtain's GitHub Activity Graph"/>
+
+</a>
+
+</div>
+
+---
+
+## 🟩 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/58a6ff/Sibtainkhann" alt="Sibtain's GitHub Contribution Calendar" width="95%"/>
+
+</div>
+
 ---
 
 ## 🎯 Currently Exploring
 
 <div align="center">
 
-🤖 **Generative AI** &nbsp; • &nbsp;
-🧠 **Machine Learning** &nbsp; • &nbsp;
-📊 **Data Analytics**
+<img src="https://img.shields.io/badge/🤖%20Generative%20AI-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠%20Machine%20Learning-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📊%20Data%20Analytics-111111?style=for-the-badge"/>
 
 <br><br>
 
-💬 **LLMs** &nbsp; • &nbsp;
-🚀 **AI Products** &nbsp; • &nbsp;
-☁️ **Cloud & AI**
+<img src="https://img.shields.io/badge/💬%20LLMs-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20AI%20Products-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☁️%20Cloud%20%26%20AI-111111?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
@@ -183,12 +228,16 @@ A Python-based application for generating strong and customizable passwords.
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://sibtainkhann.github.io/MD-SIBTAIN-KHAN-PORTFOLIO/">
 <img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
+&nbsp;
+
 <a href="https://github.com/Sibtainkhann">
-<img src="https://img.shields.io/badge/GitHub-Projects-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
