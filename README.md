@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./header.png" width="100%" alt="Sibtain GitHub Header"/>
+<img src="https://raw.githubusercontent.com/Sibtainkhann/Sibtainkhann/main/header.jpeg" width="100%" alt="Sibtain GitHub Header"/>
 
-<br>
+<br><br>
 
 # Hey 👋, I'm Sibtain
 
@@ -10,22 +10,22 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Machine+Learning+%7C+Python+%7C+SQL;Exploring+Generative+AI+%26+LLMs;Turning+ideas+into+real-world+projects" alt="Typing SVG"/>
 
-<br>
+<br><br>
 
 <a href="https://sibtainkhann.github.io/MD-SIBTAIN-KHAN-PORTFOLIO/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Explore-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/sibtain0/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://github.com/Sibtainkhann">
-<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -48,31 +48,140 @@ I'm particularly interested in:
 
 <div align="center">
 
-### 💻 Languages
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=python,mysql" height="55"/>
+<td align="center" width="150">
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
 
-### 🤖 AI & Machine Learning
+<br>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" height="55"/>
+<b>Python</b>
 
-<br><br>
+</td>
 
-### 📊 Data & Analytics
+<td align="center" width="150">
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas" height="55"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
 
-&nbsp;&nbsp;
+<br>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<b>SQL / MySQL</b>
 
-<br><br>
+</td>
 
-### ☁️ Development & Cloud
+<td align="center" width="150">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,azure" height="55"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="55"/>
+
+<br>
+
+<b>TensorFlow</b>
+
+</td>
+
+<td align="center" width="150">
+
+<img src="https://skillicons.dev/icons?i=pytorch" width="55"/>
+
+<br>
+
+<b>PyTorch</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=sklearn" width="55"/>
+
+<br>
+
+<b>Scikit-Learn</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=pandas" width="55"/>
+
+<br>
+
+<b>Pandas</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=numpy" width="55"/>
+
+<br>
+
+<b>NumPy</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.icons8.com/color/96/power-bi.png" width="55"/>
+
+<br>
+
+<b>Power BI</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+
+<br>
+
+<b>Git</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+
+<br>
+
+<b>GitHub</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+
+<br>
+
+<b>VS Code</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=azure" width="55"/>
+
+<br>
+
+<b>Azure</b>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -83,6 +192,7 @@ I'm particularly interested in:
 <div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -172,6 +282,7 @@ A simple Python-based password generator for creating strong and customizable pa
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -228,13 +339,13 @@ A simple Python-based password generator for creating strong and customizable pa
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://sibtainkhann.github.io/MD-SIBTAIN-KHAN-PORTFOLIO/">
 <img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://github.com/Sibtainkhann">
 <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
