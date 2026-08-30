@@ -244,9 +244,7 @@ A Python-based application for generating strong and customizable passwords.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sibtainkhann&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Sibtain's%20GitHub%20Stats" width="48%" alt="Sibtain's GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibtainkhann&layout=compact&hide_border=true&theme=github_dark&langs_count=8" width="40%" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com?user=Sibtainkhann&theme=github-dark-blue&hide_border=true&border_radius=10" width="80%" alt="Sibtain's GitHub Contribution Streak"/>
 
 </div>
 
@@ -254,17 +252,11 @@ A Python-based application for generating strong and customizable passwords.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibtainkhann&theme=github-dark-blue&hide_border=true" width="70%" alt="Sibtain's GitHub Contribution Streak"/>
+<a href="https://github.com/Sibtainkhann">
 
-</div>
+<img src="https://ghchart.rshah.org/58a6ff/Sibtainkhann" width="95%" alt="Sibtain's GitHub Contribution Calendar"/>
 
----
-
-## 🟩 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/58a6ff/Sibtainkhann" alt="Sibtain's GitHub Contribution Calendar" width="95%"/>
+</a>
 
 </div>
 
